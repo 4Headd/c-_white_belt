@@ -12,6 +12,7 @@ int Factorial(int N){
 	return factorialN;
 }
 
+
 // recursion
 int Factorial_recursion(int x) {
   if (x <= 1) {
